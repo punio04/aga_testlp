@@ -9236,7 +9236,7 @@
       }
 
       .komidashi06 p {
-        font-size: 1em !important;
+        font-size: 0.9em !important;
       }
 
       .ribbon_point_title_s03 {
@@ -9294,6 +9294,7 @@
     }
 
     .komidashi06 {
+      padding: 10px 0px;
       margin: 50px 0 30px 0 !important;
     }
 
@@ -9302,6 +9303,7 @@
     }
 
     .komidashi06 p {
+      line-height: initial!important;
       margin-top: 0px;
     }
 
@@ -9324,7 +9326,7 @@
 
     @media screen and (max-width: 480px) {
       .komidashi06 {
-        padding: 0 15px;
+        padding: 12px 10px;
         margin: 30px 0 20px 0 !important;
       }
 

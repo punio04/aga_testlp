@@ -9116,6 +9116,7 @@
 
 
     .arrow_r_b {
+      font-weight: bolder;
       position: relative;
       display: inline-block;
       padding-left: 20px;
@@ -9209,7 +9210,8 @@
       }
 
       .arrow_r_b {
-        font-size: 18px;
+        line-height: initial;
+        font-size: 17px;
         position: relative;
         display: inline-block;
         padding-left: 0px;
@@ -9303,7 +9305,7 @@
     }
 
     .komidashi06 p {
-      line-height: initial!important;
+      line-height: initial !important;
       margin-top: 0px;
     }
 

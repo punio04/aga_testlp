@@ -9412,9 +9412,9 @@
     }
 
     .cmt2 {
-      margin-left: 55%;
-        margin-top: -5px !important;
-        width: 29%;
+      margin-left: 45%;
+        margin-top: -15px !important;
+        width: 36%;
     }
 
     @media screen and (max-width: 480px) {
@@ -9424,13 +9424,13 @@
       }
       .cmt p {
         width: 100%;
-        line-height: initial;
-        font-size: 10px;
+        line-height: initial!important;
+        font-size: 10px!important;
       }
 
       .cmt2 {
-        margin-left: 37%!important;
+        margin-left: 26%!important;
         margin-top: -5px !important;
-        width: 36%!important;
+        width: 47%!important;
       }
     }

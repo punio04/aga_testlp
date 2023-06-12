@@ -9423,9 +9423,9 @@
         font-size: 1.4em!important;
       }
       .cmt p {
-        width: 270px;
-        line-height: 3.2em;
-          font-size: 0.2em!important;
+        width: 100%;
+        line-height: initial;
+        font-size: 10px;
       }
 
       .cmt2 {

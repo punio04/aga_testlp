@@ -9413,24 +9413,25 @@
 
     .cmt2 {
       margin-left: 45%;
-        margin-top: -15px !important;
-        width: 36%;
+      margin-top: -15px !important;
+      width: 36%;
     }
 
     @media screen and (max-width: 480px) {
       .cmt {
         width: 270px;
-        font-size: 1.4em!important;
+        font-size: 1.4em !important;
       }
+
       .cmt p {
         width: 100%;
-        line-height: initial!important;
-        font-size: 10px!important;
+        line-height: initial !important;
+        font-size: 10px !important;
       }
 
       .cmt2 {
-        margin-left: 26%!important;
+        margin-left: 26% !important;
         margin-top: -5px !important;
-        width: 47%!important;
+        width: 47% !important;
       }
     }

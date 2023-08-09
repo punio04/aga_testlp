@@ -173,12 +173,6 @@ select {
 }
 
 @media screen and (max-width: 1049px) {
-  .privacypolicybox {
-    width: 100%;
-    margin: 0 auto;
-    padding: 80px 0px 60px;
-  }
-
   .contents h1 {
     font-size: 180%;
   }
@@ -194,7 +188,7 @@ select {
 .content h1 {
   font-family: Quicksand, sans-serif !important;
   font-weight: 500;
-  font-size: 32px;
+  font-size: 27px;
   line-height: 2.0;
   margin: 0 auto;
   text-align: center;
@@ -464,11 +458,11 @@ a {
   .privacypolicybox {
     width: 100% !important;
     margin: 0 auto !important;
-    padding: 60px 0px 40px !important;
+    padding: 75px 0px 35px !important;
   }
 
   .contents-panel h1 {
-    font-size: 24px;
+    font-size: 20px;
     margin: 15px 0 9px;
   }
 
@@ -500,7 +494,7 @@ a {
   }
 
   .footer {
-    margin-top: 40px;
+    margin-top: 35px;
     padding: 8px;
     background: #060d4a;
   }

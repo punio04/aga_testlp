@@ -9411,6 +9411,12 @@
       margin-left: auto;
     }
 
+    .cmt_ {
+      width: 210px;
+      font-size: 12px;
+      margin-left: auto;
+    }
+
     .cmt2 {
       margin-left: 45%;
       margin-top: -15px !important;
@@ -9423,7 +9429,18 @@
         font-size: 1.4em !important;
       }
 
+      .cmt_ {
+        width: 180px;
+        font-size: 1.4em !important;
+      }
+
       .cmt p {
+        width: 100%;
+        line-height: initial !important;
+        font-size: 10px !important;
+      }
+
+      .cmt_ p {
         width: 100%;
         line-height: initial !important;
         font-size: 10px !important;
